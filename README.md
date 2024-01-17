@@ -1,2 +1,2 @@
 # Wordle
-Basic Wordle game to work on Python skills# Wordle
+Basic Wordle game to work on Python skills
