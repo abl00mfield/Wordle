@@ -1,3 +1,5 @@
+# this program was only used to test the functionaliy of the main program
+
 def multipleLetters(char, word):
     '''Takes in a char and a string returns the number of 
     times the char appears in the string'''
